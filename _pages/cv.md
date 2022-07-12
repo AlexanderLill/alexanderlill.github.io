@@ -11,49 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **Ph.D. in Computer Science**, University of Zurich (UZH), ongoing
+* **M.Sc. in Computer Science**, Technical University of Munich (TUM), 2018
+* **B.Sc. in Computer Science**, Technische Hochschule Ingolstadt (THI), 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Since Sept. 2020: **Research Assistant**
+  * Human Aspects of Software Engineering Lab, University of Zurich, Switzerland
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* March 2020 - June 2020: **Research Scientist**
+  * fortiss GmbH, Munich, Germany
 
-Publications
+* Oct. 2018 - Feb. 2020: **Software Engineering Trainee**
+  * European Space Agency, Noordwijk, The Netherlands
+
+* June 2017 - Sept. 2017: **Working Student**
+  * iHaus AG, Munich, Germany
+
+* Jan. 2017 - Oct. 2018: **Student Assistant**
+  * Chair of Astronautics, Technical University of Munich, Germany
+
+* May 2015 - Aug. 2015: **Software Engineering Intern**
+  * Sulzer US, LLC, Paramus (NJ), USA
+
+
+Voluntary Activities
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Oct. 2018 - Feb. 2020: **Member of the Young Professional Advisory Group**
+  * European Space Agency, Noordwijk, The Netherlands
+
+* May 2016 - Oct. 2018: **Member of the MOVE-II Nanosatellite Student Project**
+  * Chair of Astronautics, Technical University of Munich, Germany
