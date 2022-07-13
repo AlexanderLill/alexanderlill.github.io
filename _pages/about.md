@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Alexander Lill"
+title: "Home"
 excerpt: "Homepage"
 author_profile: true
 redirect_from: 
