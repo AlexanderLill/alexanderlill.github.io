@@ -39,7 +39,7 @@ Work experience
 Voluntary Activities
 ======
 * Since Sept. 2022: **Member of the Digital Society Initiative Excellence Program**
-  * University of Zurich, Zurich, Switzerland
+  * University of Zurich, Switzerland
 
 * Oct. 2018 - Feb. 2020: **Member of the Young Professional Advisory Group**
   * European Space Agency, Noordwijk, The Netherlands
