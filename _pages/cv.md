@@ -17,6 +17,9 @@ Education
 
 Work experience
 ======
+* Since July 2025: **AI Engineer**
+  * appliedAI Initiative GmbH, Munich, Germany
+
 * Since Sept. 2020: **Research Assistant**
   * Human Aspects of Software Engineering Lab, University of Zurich, Switzerland
 
