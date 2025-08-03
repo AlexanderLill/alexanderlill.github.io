@@ -9,11 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* **Ph.D. in Computer Science**, University of Zurich (UZH), ongoing
-* **M.Sc. in Computer Science**, Technical University of Munich (TUM), 2018
-* **B.Sc. in Computer Science**, Technische Hochschule Ingolstadt (THI), 2015
 
 Work experience
 ======
@@ -26,7 +21,7 @@ Work experience
 * March 2020 - June 2020: **Research Scientist**
   * fortiss GmbH, Munich, Germany
 
-* Oct. 2018 - Feb. 2020: **Software Engineering Trainee**
+* Oct. 2018 - Feb. 2020: **Software Engineering Trainee (YGT)**
   * European Space Agency, Noordwijk, The Netherlands
 
 * June 2017 - Sept. 2017: **Working Student**
@@ -38,6 +33,11 @@ Work experience
 * May 2015 - Aug. 2015: **Software Engineering Intern**
   * Sulzer US, LLC, Paramus (NJ), USA
 
+Education
+======
+* **Ph.D. in Computer Science**, University of Zurich (UZH), ongoing
+* **M.Sc. in Computer Science**, Technical University of Munich (TUM), 2018
+* **B.Sc. in Computer Science**, Technische Hochschule Ingolstadt (THI), 2015
 
 Voluntary Activities
 ======
