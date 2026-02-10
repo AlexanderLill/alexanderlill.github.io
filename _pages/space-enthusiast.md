@@ -24,7 +24,7 @@ As **Lead Software Engineer and Systems Engineer**, I:
 - Managed infrastructure, software tools, and code repositories
 
 ### The Mission
-The MOVE-II CubeSat was successfully launched into low Earth orbit on [December 3rd, 2018](https://www.youtube.com/watch?v=Wq8kS6UoOrQ) and operated for almost **7 years** before deorbiting on July 13th, 2025. This was an incredible achievement for a student-built satellite!
+The MOVE-II CubeSat was successfully launched into low Earth orbit on [December 3rd, 2018](https://www.youtube.com/watch?v=Wq8kS6UoOrQ) and operated for almost **7 years** before [deorbiting on July 13th, 2025](https://celestrak.org/NORAD/elements/graph-altitude.php?CATNR=43780). This was an incredible achievement for a student-built satellite!
 
 We developed the entire software stack using **agile practices** – something quite innovative for space applications at the time. The mission control software was built with modern technologies (Python, SpringBoot, Hibernate) while the onboard software ran on Linux.
 
@@ -67,7 +67,3 @@ This research bridged my interests in [software engineering](/software-engineer/
 Space represents humanity's greatest adventure – pushing boundaries, solving impossible problems, and working together across nations. The technical challenges are immense, the stakes are high, and the impact is profound. Whether it's Earth observation for climate monitoring, communication satellites connecting the world, or scientific missions expanding our understanding of the universe, space technology improves life on Earth.
 
 Being part of this journey – from writing code that runs in orbit to working with international teams at ESA – has been an incredible privilege and continues to inspire my work today.
-
----
-
-*View my full [CV](/cv/) | [Privacy Policy](/terms/)*

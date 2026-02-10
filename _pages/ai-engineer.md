@@ -41,7 +41,3 @@ My work as an AI Engineer builds on my diverse background:
 - **[Software Engineering](/software-engineer/)**: 15+ years of building systems gives me practical insights into what works in real-world applications
 - **[Research Experience](/productivity-researcher/)**: My Ph.D. taught me how to validate ideas through rigorous user studies and experiments
 - **[Space Industry](/space-enthusiast/)**: Working on mission-critical satellite systems taught me the importance of reliability and systematic engineering
-
----
-
-*View my full [CV](/cv/) | [Privacy Policy](/terms/)*

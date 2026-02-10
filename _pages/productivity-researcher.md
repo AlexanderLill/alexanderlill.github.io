@@ -92,7 +92,3 @@ Beyond my core research, I've been actively involved in the academic community:
 ## From Research to Practice
 
 My research insights now directly inform my work as an [AI Engineer at appliedAI](/ai-engineer/), where I build AI-powered tools for enterprise environments. The combination of academic rigor and practical engineering experience allows me to create solutions that are both theoretically sound and practically useful.
-
----
-
-*View my full [CV](/cv/) | [Privacy Policy](/terms/)*

@@ -72,5 +72,3 @@ I believe in making technology accessible and helping people understand how to u
 ---
 
 *Want to connect? Find me on [GitHub](https://github.com/alexanderlill), [LinkedIn](https://linkedin.com/in/alexanderlill), or [X/Twitter](https://x.com/AlexanderLillEU).*
-
-*View my full [CV](/cv/) | [Privacy Policy](/terms/)*

@@ -88,7 +88,3 @@ Throughout my career, I've supervised and mentored numerous projects and team me
 ## Current Work
 
 Today, I apply this software engineering expertise as an [AI Engineer at appliedAI](/ai-engineer/), building enterprise AI solutions that combine solid engineering practices with cutting-edge AI technologies.
-
----
-
-*View my full [CV](/cv/) | [Privacy Policy](/terms/)*
