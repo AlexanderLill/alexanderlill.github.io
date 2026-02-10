@@ -8,14 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-Hello and welcome to my website!
+## Hey there! 👋
 
-My name is Alexander Lill, and I am an AI Engineer working at the [appliedAI Initiative](https://www.appliedai.de/) since July 2025.
+I'm Alexander Lill – and I wear many hats (sometimes all at once).
 
-I received my bachelor's degree in Computer Science from [TH Ingolstadt (THI)](https://www.thi.de/) in 2015 and my master's degree in Computer Science from the [Technical University of Munich (TUM)](https://www.tum.de/) in 2018.
+I'm an **AI Engineer** at the [appliedAI Initiative](https://www.appliedai.de/), where I design agentic AI solutions using LLMs and orchestration frameworks. I'm a **Software Engineer** who's been building systems since my apprenticeship in 2007, from embedded satellite software to modern web applications. I'm a **Productivity Researcher** finishing my Ph.D. at the University of Zurich, where I study how developers work and build AI-powered tools to make them more productive. And I'm a **Space Enthusiast** who helped build software for the MOVE-II satellite and worked at the European Space Agency.
 
-During my master's degree, I also was a member of the [MOVE-II Nanosatellite Student Project](https://warr.de/projects/move/), where I was the lead software engineer and responsible for planning and coordinating the development of the on-board software and the mission control software, which were developed using agile practices. The MOVE-II CubeSat was launched into low Earth orbit on the [3rd of December 2018](https://www.youtube.com/watch?v=Wq8kS6UoOrQ) and deorbited on the [13th of July 2025](https://celestrak.org/NORAD/elements/graph-altitude.php?CATNR=43780) after almost 7 years of operations.
+## My Journey
 
-After my master's degree, I joined the [European Space Agency (ESA)](https://www.esa.int/) in the Netherlands, where I was a trainee in the Software Systems Division working on Mission Control Systems from 2018 to 2020.
+I started my career with an **apprenticeship as a Computer Science Expert** at a hospital in Ingolstadt, learning the fundamentals of system administration and software development. I earned my **Bachelor's** (2015) and **Master's** (2018) degrees in Computer Science, both with distinction, from universities in Bavaria.
 
-Since September 2020, I am a research assistant and Ph.D. student at the Human Aspects of Software Engineering Lab (HASEL) at the University of Zurich (UZH), where I focus on Software Developer Productivity, supervised by [Prof. Thomas Fritz](https://hasel.dev/team/thomas-fritz/).
+During my master's at TUM, I became **Lead Software Engineer** for the [MOVE-II CubeSat](https://warr.de/projects/move/) – a student-built satellite that launched in December 2018 and operated for almost 7 years in orbit! I led teams, defined architectures, and brought agile practices to space software development.
+
+After graduation, I joined the **[European Space Agency](https://www.esa.int/)** in the Netherlands as a Trainee (2018-2020), working on Mission Control Systems and helping improve the onboarding processes for early-career engineers.
+
+Since 2020, I've been a **Ph.D. student** at the [Human Aspects of Software Engineering Lab](https://hasel.dev/) at the University of Zurich, supervised by [Prof. Thomas Fritz](https://hasel.dev/team/thomas-fritz/). My research focuses on developer productivity, and I've supervised 10+ students through their theses while publishing at top conferences like ICSE and CSCW.
+
+Now, as an **AI Engineer** at appliedAI, I'm bringing together everything I've learned – software engineering, research, and a passion for building tools that help people work better – to create enterprise AI solutions that actually make a difference.
+
+## What Drives Me
+
+I'm passionate about leveraging technology to improve people's lives. Whether it's building satellites for space missions, creating AI tools that help developers be more productive, or contributing to open source projects, I love solving complex problems and making an impact.
+
+Explore the tabs above to learn more about my different roles and interests – each perspective tells a different part of my story!
+
+---
+
+*View my full [CV](/cv/) or read the [Privacy Policy](/terms/)*

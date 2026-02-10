@@ -1,6 +1,14 @@
 # main links links
 main:
+  - title: "AI Engineer"
+    url: /ai-engineer/
+  - title: "Software Engineer"
+    url: /software-engineer/
+  - title: "Productivity Researcher"
+    url: /productivity-researcher/
+  - title: "Space Enthusiast"
+    url: /space-enthusiast/
+  - title: "Other Stuff"
+    url: /other-stuff/
   - title: "CV"
     url: /cv/
-  - title: "Privacy"
-    url: /terms/
