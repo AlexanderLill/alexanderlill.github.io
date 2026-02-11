@@ -30,6 +30,7 @@ My dissertation focuses on **building tools for enhancing software developer exp
 
 I have supervised **10+ students** through their master's and bachelor's theses and projects, guiding them end-to-end through the research process:
 
+- "CA$H: Collaborative Agent Software Hierarchy - An Agent-Based Approach for Concept Location and Change Propagation in Software Evolution" (Master Project, 2025)
 - "Generating FAQs from Chat Conversations" (Master Project, 2024)
 - "Educational AI Companion for ACCESS" (Master Project, 2024)
 - "Task-Management with Microtasking" (Bachelor Thesis, 2023)
