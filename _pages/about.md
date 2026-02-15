@@ -12,13 +12,13 @@ redirect_from:
 
 I'm Alexander Lill – and I wear many hats (sometimes all at once).
 
-I'm an **AI Engineer** at the [appliedAI Initiative](https://www.appliedai.de/), where I design agentic AI solutions using LLMs and orchestration frameworks. *[→ AI Engineer](/ai-engineer/)*
+I'm an **[AI Engineer](/ai-engineer/)** at the [appliedAI Initiative](https://www.appliedai.de/), where I design agentic AI solutions using LLMs and orchestration frameworks.
 
-I'm a **Software Engineer** who's been building systems since my apprenticeship in 2007, from embedded satellite software to modern web applications. *[→ Software Engineer](/software-engineer/)*
+I'm a **[Software Engineer](/software-engineer/)** who's been building systems since my apprenticeship in 2007, from embedded satellite software to modern web applications.
 
-I'm a **Productivity Researcher** finishing my Ph.D. at the University of Zurich, where I study how developers work and build AI-powered tools to make them more productive. *[→ Productivity Researcher](/productivity-researcher/)*
+I'm a **[Productivity Researcher](/productivity-researcher/)** finishing my Ph.D. at the University of Zurich, where I study how developers work and build AI-powered tools to make them more productive.
 
-And I'm a **Space Enthusiast** who helped build software for the MOVE-II satellite and worked at the European Space Agency. *[→ Space Enthusiast](/space-enthusiast/)*
+And I'm a **[Space Enthusiast](/space-enthusiast/)** who helped build software for the MOVE-II satellite and worked at the European Space Agency.
 
 ## My Journey
 
