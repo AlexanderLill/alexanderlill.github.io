@@ -15,9 +15,13 @@ Experienced software engineer and technical lead with a strong focus on artifici
 
 ## Work Experience
 
-**AI Engineer** (June 2025 - Present)  
+**Forward Deployed Engineer** (May 2026 - Present)  
+*Wonderful*, Munich, Germany (Hybrid)  
+Working closely with customers to deploy and integrate AI solutions.
+
+**AI Engineer** (June 2025 - April 2026)  
 *appliedAI Initiative GmbH*, Munich, Germany  
-Designing agentic AI solutions using LLMs and orchestration frameworks for enterprise use cases.
+Designed agentic AI solutions using LLMs and orchestration frameworks for enterprise use cases.
 
 **Research Engineer for Developer Experience & Productivity** (Sept. 2020 - Dec. 2024)  
 *Human Aspects of Software Engineering Lab, University of Zurich (UZH)*, Switzerland  

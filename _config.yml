@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alexander Lill"
 title_separator          : "-"
 name                     : &name "Alexander Lill"
-description              : &description "Alexander Lill - AI Engineer, Software Engineer, and Productivity Researcher. Building AI solutions, researching developer productivity, and passionate about space technology."
+description              : &description "Alexander Lill – building AI solutions, researching developer productivity, and passionate about space technology."
 url                      : https://alexanderlill.eu # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alexanderlill/alexanderlill.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Alexander Lill"
   avatar           : "profile.jpg"
-  bio              : "AI Engineer @ appliedAI | PhD Student in Developer Productivity @ UZH"
+  bio              : "Forward Deployed Engineer @ Wonderful | PhD Student in Developer Productivity @ UZH"
   location         : "Munich, Germany"
-  employer         : "appliedAI Initiative GmbH"
+  employer         : "Wonderful"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=RNxuHU8AAAAJ"
   email            :

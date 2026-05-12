@@ -67,7 +67,7 @@ As a Young Graduate Trainee in the Software Systems Division:
 
 ## Technical Skills
 
-**Programming**: Advanced in Python and Java; Familiar with C, C++, JavaScript, TypeScript, C#, Bash, HTML/CSS
+**Programming**: Advanced in Python; Familiar with C, C++, Java, JavaScript, TypeScript, C#, Bash, HTML/CSS
 
 **Frameworks**: Pandas, D3.js, Electron, React, Angular, FastAPI, Terraform
 
@@ -87,4 +87,4 @@ Throughout my career, I've supervised and mentored numerous projects and team me
 
 ## Current Work
 
-Today, I apply this software engineering expertise as an [AI Engineer at appliedAI](/ai-engineer/), building enterprise AI solutions that combine solid engineering practices with cutting-edge AI technologies.
+Today, I apply this software engineering expertise as a [Forward Deployed Engineer at Wonderful](/ai-engineer/), deploying AI solutions that combine solid engineering practices with cutting-edge AI technologies.
