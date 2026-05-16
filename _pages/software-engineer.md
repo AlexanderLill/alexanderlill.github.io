@@ -87,4 +87,4 @@ Throughout my career, I've supervised and mentored numerous projects and team me
 
 ## Current Work
 
-Today, I apply this software engineering expertise as a [Forward Deployed Engineer at Wonderful](/ai-engineer/), deploying AI solutions that combine solid engineering practices with cutting-edge AI technologies.
+Today, I apply this software engineering expertise as a [Forward Deployed AI Engineer at Wonderful](/ai-engineer/), deploying AI solutions that combine solid engineering practices with cutting-edge AI technologies.

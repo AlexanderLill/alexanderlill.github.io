@@ -15,7 +15,7 @@ Experienced software engineer and technical lead with a strong focus on artifici
 
 ## Work Experience
 
-**Forward Deployed Engineer** (May 2026 - Present)  
+**Forward Deployed AI Engineer** (May 2026 - Present)  
 *Wonderful*, Munich, Germany (Hybrid)  
 Working closely with customers to deploy and integrate AI solutions.
 

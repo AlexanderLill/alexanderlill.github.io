@@ -12,7 +12,7 @@ redirect_from:
 
 I'm Alexander Lill – engineer, researcher, and space enthusiast.
 
-I'm a **[Forward Deployed Engineer](/ai-engineer/)** at [Wonderful](https://wonderful.ai/), where I work closely with customers to deploy and integrate AI solutions.
+I'm a **[Forward Deployed AI Engineer](/ai-engineer/)** at [Wonderful](https://wonderful.ai/), where I work closely with customers to deploy and integrate AI solutions.
 
 I'm a **[Software Engineer](/software-engineer/)** who's been building systems since my apprenticeship in 2007, from embedded satellite software to modern web applications.
 
@@ -30,7 +30,7 @@ After graduation, I joined the **[European Space Agency](https://www.esa.int/)**
 
 Since 2020, I've been a **Ph.D. student** at the [Human Aspects of Software Engineering Lab](https://hasel.dev/) at the University of Zurich, supervised by [Prof. Thomas Fritz](https://hasel.dev/team/thomas-fritz/). My research focuses on developer productivity, and I've supervised 10+ students through their theses while publishing at top conferences like ICSE and CSCW.
 
-Now, as a **Forward Deployed Engineer** at Wonderful, I'm bringing together everything I've learned – software engineering, research, and a passion for building tools that help people work better – to deploy AI solutions that actually make a difference for customers.
+Now, as a **Forward Deployed AI Engineer** at Wonderful, I'm bringing together everything I've learned – software engineering, research, and a passion for building tools that help people work better – to deploy AI solutions that actually make a difference for customers.
 
 ## What Drives Me
 

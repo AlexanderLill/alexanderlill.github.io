@@ -9,7 +9,7 @@ author_profile: true
 
 ## Current Role
 
-Since May 2026, I work as a **Forward Deployed Engineer** at [Wonderful](https://wonderful.ai/) in Munich, Germany, where I work closely with customers to deploy and integrate AI solutions.
+Since May 2026, I work as a **Forward Deployed AI Engineer** at [Wonderful](https://wonderful.ai/) in Munich, Germany, where I work closely with customers to deploy and integrate AI solutions.
 
 ## Previous Role
 
