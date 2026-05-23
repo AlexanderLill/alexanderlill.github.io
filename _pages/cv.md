@@ -47,6 +47,10 @@ Developed an intelligent smart home automation solution.
 *Sulzer US, LLC*, Paramus (NJ), USA  
 Managed infrastructure and developed a data synchronization backend.
 
+**Software Engineering Intern** (Aug. 2013 - Dec. 2013)  
+*TraceTronic GmbH*, Ingolstadt, Germany  
+Development of a tool for generating user documentation from a UML model.
+
 **Apprenticeship - Computer Science Expert** (Sept. 2007 - July 2010)  
 *Klinikum Ingolstadt GmbH (Hospital)*, Ingolstadt, Germany  
 System and network administration, custom software development, and technical support.
